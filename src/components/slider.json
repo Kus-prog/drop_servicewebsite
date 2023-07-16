@@ -1,0 +1,44 @@
+[
+    {
+      "name": "Website Development",
+      "price": "5000",
+      "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+      "image": "./sidebar.png"
+    },
+    {
+      "name": "App Development",
+      "price": "7000",
+      "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+      "image": "./ecommerce.png"
+    },
+    {
+      "name": "Logo Design",
+      "price": "1000",
+      "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+      "image": "./musicapp.png"
+    },
+    {
+      "name": "Business websites",
+      "price": "10000",
+      "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+      "image": "./amazon.png"
+    },
+    {
+      "name": "Website Maintenance",
+      "price": "15000",
+      "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+      "image": "./crown.png"
+    },
+    {
+      "name": "Video Editing",
+      "price": "1000",
+      "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+      "image": "./crown.png"
+    },
+    {
+      "name": "Logo Animation",
+      "price": "1000",
+      "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+      "image": "./crown.png"
+    }
+  ]

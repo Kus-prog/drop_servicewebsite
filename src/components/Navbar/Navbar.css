@@ -16,7 +16,17 @@
 .n-name {
   font-size: 1.3rem;
   font-weight: bold;
+  
 }
+
+.n-name>img {
+ padding-top: 25px;
+  height: 200px;
+  width: 300px;
+  
+}
+
+
 .n-right {
   flex: 1;
   display: flex;

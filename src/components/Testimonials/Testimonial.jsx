@@ -15,7 +15,7 @@ const Testimonial = () => {
     {
       img: profilePic1,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "The BytesNPixel team have proven to be extremely passionate and dedicated with their work. They are highly driven and have a zeal for all things digital.Their business acumen par excellence is a force that cannot be reckoned with and we eagerly look forward to the uncharted journey ahead",
     },
     {
       img: profilePic2,
@@ -39,7 +39,7 @@ const Testimonial = () => {
       <div className="t-heading">
         <span>Clients always get </span>
         <span>Exceptional Work </span>
-        <span>from me...</span>
+        <span>from Us...</span>
       <div className="blur t-blur1" style={{ background: "var(--purple)" }}></div>
       <div className="blur t-blur2" style={{ background: "skyblue" }}></div>
 
